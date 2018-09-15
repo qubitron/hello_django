@@ -25,7 +25,7 @@ SECRET_KEY = '_#=qxc79h7w2i57=s%td+5+f30yfpd)9vo(3+t+ka5vd5kan0w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djangocondemo.azurewebsites.net']
 
 
 # Application definition
